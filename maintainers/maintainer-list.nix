@@ -16186,4 +16186,10 @@
     github = "ziguana";
     githubId = 45833444;
   };
+  rumpelsepp = {
+    name = "Stefan Tatschner";
+    email = "stefan@rumpelsepp.org";
+    github = "rumpelsepp";
+    githubId = 1961699;
+  };
 }
